@@ -28,7 +28,7 @@ Speaker at various events:
 🎥[YouTube](https://youtube.com/BashWoman)  
 ⚒[LinkedIn](https://linkedin.com/in/seemasaharan)  
 🧵[Twitter](https://twitter.com/SeemaSaharan5)  
-✍[Hashnode](https://bashwoman.hashnode.dev)  
+✍[Hashnode](https://bashwoman.com)`  
 📷[Instagram](https://instagram.com/bashwoman)  
 
 ## ✔AIM 
