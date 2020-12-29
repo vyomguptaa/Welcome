@@ -28,7 +28,7 @@ Speaker at various events:
 🎥[YouTube](https://youtube.com/BashWoman)  
 ⚒[LinkedIn](https://linkedin.com/in/seemasaharan)  
 🧵[Twitter](https://twitter.com/SeemaSaharan5)  
-✍[Hashnode](https://bashwoman.com)`  
+✍[Hashnode](https://bashwoman.com)  
 📷[Instagram](https://instagram.com/bashwoman)  
 
 ## ✔AIM 
@@ -58,6 +58,11 @@ Till now, I have thought of providing some sessions to grow students, about:
 ## 🔮Future Plans
 
 To be discussed.
+
+# 🔥Members
+
+All the members are here. Thank you for your support.  
+Add yourself [here](https://github.com/Bash-Woman-Community/Welcome/blob/main/Members.md).
 
 ## 💪Join Our Mission
 
