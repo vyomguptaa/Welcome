@@ -26,7 +26,7 @@ __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jai
 
 
 - __Name__:  Aditya Thakur  
-__Country__:  India
+__Country__:  India  
 __About__:    I am currently pursuing B.Tech CSE from SRM University with specialisation in Data Science and Artificial Intelligence. I make programming videos.  
 __Tech Stack__:  Flutter, Java, Python  
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
