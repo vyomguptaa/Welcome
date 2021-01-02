@@ -24,4 +24,10 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
-  
+
+- __Name__:  Aditya Thakur  
+__Country__:  India  
+__About__:    I am currently pursuing B.Tech CSE from SRM University with specialisation in Data Science and Artificial Intelligence. I make programming videos.  
+__Tech Stack__:  Flutter, Java, Python  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
+__Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
