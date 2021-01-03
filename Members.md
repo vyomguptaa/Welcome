@@ -40,3 +40,10 @@ and a Technical Blogger with special interests in the field of Artificial Intell
 __Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
+
+- __Name__:  Vyom Gupta  
+__Country__:  India  
+__About__:    I am currently pursuing B.Tech CSE from VIT University. I use to make front-end for the websites.  
+__Tech Stack__:  HTML, CSS, JS, Python  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vyom-g-2255a112a/)  | [GitHub](https://github.com/vyomguptaa) | [Twitter](https://twitter.com/vyomguptaa) | [Instagram](https://www.instagram.com/vyomguptaa/)  
